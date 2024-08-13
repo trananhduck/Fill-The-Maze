@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mê Cung</title>
+    <link rel="stylesheet" href="../styles.css" />
+  </head>
+  <body>
+    <div id="controls">
+      <div id="counter">Visited Cells: 0</div>
+      <div id="status-bar">
+        Max Moves: <span id="max-moves">45</span> | Time:
+        <span id="time">00:00</span>
+      </div>
+      <div id="buttons">
+        <button id="reset-btn">Reset</button>
+        <button id="undo-btn">Undo</button>
+        <button id="back-btn">Back</button>
+      </div>
+    </div>
+
+    <div id="maze-container">
+      <div id="cube"></div>
+    </div>
+    <!-- Modal -->
+    <div id="modal" class="modal">
+      <div class="modal-content">
+        <h2>Confirm</h2>
+        <p>
+          Do you want to go back to the main menu? All progress will be lost.
+        </p>
+        <button id="modal-confirm">Yes</button>
+        <button id="modal-cancel">No</button>
+      </div>
+    </div>
+    <script src="level1.js"></script>
+  </body>
+</html>
