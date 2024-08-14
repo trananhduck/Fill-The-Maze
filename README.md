@@ -1,8 +1,8 @@
-# Maze Game
+# Fill The Maze Game
 
 ## Giới thiệu
 
-Maze Game là một trò chơi mê cung đơn giản với các chức năng điều khiển cơ bản. Người chơi sẽ điều khiển một khối vuông di chuyển qua các ô trắng trong mê cung để hoàn thành mục tiêu.
+Fill The Maze Game là một trò chơi mê cung đơn giản với các chức năng điều khiển cơ bản. Người chơi sẽ điều khiển một khối vuông di chuyển qua các ô trắng trong mê cung để hoàn thành mục tiêu.
 
 ## Cài đặt
 
