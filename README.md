@@ -3,7 +3,7 @@
 ## Giới thiệu
 
 Fill The Maze Game là một trò chơi mê cung đơn giản với các chức năng điều khiển cơ bản. Người chơi sẽ điều khiển một khối vuông di chuyển qua các ô trắng trong mê cung để hoàn thành mục tiêu.
-Link: https://github.com/trananhduck/Fill-The-Maze/
+Link: [https://github.com/trananhduck/Fill-The-Maze/](https://trananhduck.github.io/Fill-The-Maze/maze/)
 ## Cài đặt
 
 1. **Clone repository**:
